@@ -44,8 +44,8 @@ The dataset was collected from public road accident records and adapted for dash
 - Clear KPIs and visuals for fast interpretation  
 - Suitable for public safety organizations and analysts
 - 
-![Dashboard Screnshort](https://github.com/SamikshaDhas/Road_Accident_Excel_Dashboard/blob/main/Screenshot%202025-08-04%20194624.png)
+![Dashboard Screenshot](https://github.com/SamikshaDhas/dash_roadaccident/blob/main/Screenshot%202025-08-04%20194624.png)
 
 
----
+
 
